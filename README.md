@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on... finding a job!
 - 🌱 I’m currently learning... PHP & Wordpress
-- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... Cibola Burn (The Expanse #4) & The 2-Hour Job Search
+- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... Cibola Burn (The Expanse #4)
 - 🙋‍♂️ Pronouns: he/him
 - 🎲 Fun fact: I previously worked as a game master and manager for a board game cafe! 
 
