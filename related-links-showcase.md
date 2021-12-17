@@ -14,7 +14,7 @@ Check out my experiments and progress on the following sites below.
 - [Khan Academy](https://www.khanacademy.org/profile/davidvdev)
 
 ## Algorithm and Code Challenge Sites
-_I'm not consistently active on these sites, but I do have activity on them.
+_I'm not consistently active on these sites, but I do have activity on them._
 - [CodeWars](https://www.codewars.com/users/davidvdev)
 - [CodeSignal](https://app.codesignal.com/profile/davidvdev)
 - [LeetCode](https://leetcode.com/davidvdev/)
