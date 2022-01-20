@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on... finding a job!
 - 🌱 I’m currently learning... react-three-fiber and three.js
-- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... [The Job Closer](https://openlibrary.org/works/OL24415839W/The_Job_Closer) & [Nemesis Games (The Expanse #5)](https://openlibrary.org/works/OL17755458W/Nemesis_Games)
+- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... [The Left Hand of Darkness](https://openlibrary.org/books/OL26775854M/The_Left_hand_of_Darkness)
 - 🙋‍♂️ Pronouns: he/him
 - 🎲 Fun fact: I previously worked as a game master and manager for a board game cafe!
 
