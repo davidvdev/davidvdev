@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on... finding a job!
 - 🌱 I’m currently learning... wordpress and more react
-- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... [What We Don't Talk About When We Talk About Fat](https://openlibrary.org/works/OL21905559W/What_We_Don%27t_Talk_about_When_We_Talk_about_Fat)
+- [📖 I](https://www.goodreads.com/user/show/91776686-david-vogel)'m currently reading... nothing yet! I'm taking a break.
+- 🎮 I'm currently playing... [Gex64: Enter the Gecko](https://www.igdb.com/games/gex-64-enter-the-gecko)
 - 🙋‍♂️ Pronouns: he/him/his
 - 🎲 Fun fact: I previously worked as a game master and manager for a board game cafe!
 
